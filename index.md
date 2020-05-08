@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Guadalajara
 tags: example-tag
-region: Europe
+region: North America
 
 ---
 
